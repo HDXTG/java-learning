@@ -10,4 +10,4 @@
 
 ## 作者
 HDXTG hdxtg58@gmail.com
-      hdxtg@out;ook.com
+      hdxtg@outlook.com
