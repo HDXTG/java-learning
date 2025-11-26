@@ -7,3 +7,7 @@
 
 ## 如何运行
 运行 `src/HelloWorld.java` 文件中的main方法。
+
+## 作者
+HDXTG hdxtg58@gmail.com
+      hdxtg@out;ook.com
